@@ -1,0 +1,26 @@
+{
+  "name": "koa-api",
+  "version": "1.0.0",
+  "description": "simple web api",
+  "main": "app.js",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "html-pdf": "^2.2.0",
+    "koa": "^2.4.1",
+    "koa-body": "^2.5.0",
+    "koa-router": "^7.3.0",
+    "log4js": "^2.4.1",
+    "memory-cache": "^0.2.0",
+    "mime": "^2.1.0",
+    "moment": "^2.20.1",
+    "mongodb": "^3.0.1",
+    "mssql": "^4.1.0",
+    "request": "^2.83.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
